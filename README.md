@@ -6,6 +6,23 @@ The OLA Ride Booking Analysis Dashboard is an interactive Power BI project desig
 
 Using Power BI visualizations, stakeholders can monitor key performance indicators (KPIs) and make data-driven decisions to improve operational efficiency and customer satisfaction.
 
+## Dashboard Preview
+
+### Overall Analysis
+![Overall Analysis](https://raw.githubusercontent.com/kumar-praveen/Ola-Data-Analysis-Project/main/Overall.png)
+
+### Vehicle Type Analysis
+![Vehicle Type Analysis](https://raw.githubusercontent.com/kumar-praveen/Ola-Data-Analysis-Project/main/Vehicle%20Type.png)
+
+### Revenue Analysis
+![Revenue Analysis](https://raw.githubusercontent.com/kumar-praveen/Ola-Data-Analysis-Project/main/Revenue.png)
+
+### Cancellation Analysis
+![Cancellation Analysis](https://raw.githubusercontent.com/kumar-praveen/Ola-Data-Analysis-Project/main/Cancellations.png)
+
+### Ratings Analysis
+![Ratings Analysis](https://raw.githubusercontent.com/kumar-praveen/Ola-Data-Analysis-Project/main/Ratings.png)
+
 ---
 
 ## Objectives
